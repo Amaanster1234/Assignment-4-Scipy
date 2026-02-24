@@ -134,6 +134,6 @@ python scipy_analysis.py
 
 ### Repository Contents
 
-scipy_analysis.py
-players_stats_by_season_full_details.csv
+scipy_analysis.py,
+players_stats_by_season_full_details.csv,
 README.md

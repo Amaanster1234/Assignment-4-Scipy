@@ -137,10 +137,3 @@ python scipy_analysis.py
 scipy_analysis.py
 players_stats_by_season_full_details.csv
 README.md
-AI Chat Log
-
----
-
-### Use of Generative AI
-
-ChatGPT was used as an assistance tool for debugging, formatting output, and implementing SciPy functions based on lecture material.

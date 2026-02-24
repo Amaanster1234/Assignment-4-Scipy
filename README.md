@@ -100,7 +100,7 @@ FGA statistics
 Paired t test results
 One sample t test results
 
-This structure allows each required rubric item to be easily identified in terminal output.
+This structure allows each required item to be easily identified in terminal output.
 
 ---
 
